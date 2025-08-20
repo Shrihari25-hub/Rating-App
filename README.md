@@ -42,3 +42,4 @@ Built with **React (Frontend)**, **Node.js/Express (Backend)**, and **PostgreSQL
 ```bash
 git clone https://github.com/Shrihari25-hub/Rating-App.git
 cd Rating-App
+
