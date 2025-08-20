@@ -13,7 +13,7 @@ Built with **React (Frontend)**, **Node.js/Express (Backend)**, and **PostgreSQL
 -  **Ratings System** (Users can rate stores 1–5)
 -  **Prevent Duplicate Ratings** (One rating per store per user)
 -  **Filters & Search** (by store, rating, etc.)
-- 🛠 **Admin Features** (Manage users, stores, and ratings)
+-  **Admin Features** (Manage users, stores, and ratings)
 
 ---
 
